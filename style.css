@@ -1,0 +1,54 @@
+@font-face {
+    font-family: Rebeca;
+    src: url("Rebeca.ttf");
+    
+}
+h1{
+font-family: Rebeca;
+font-size:50px
+}
+.redes{
+
+    display:flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+
+.paginas{
+    display:flex;
+    justify-content:space-between ;
+}
+.juegos h3{
+    text-align: center;
+    margin-top: 30px;
+    color: rgb(32, 25, 6);
+    
+   
+}
+
+.juegos img{
+
+    border-radius: 50px;
+    border-color: rgb(232, 235, 107);
+    
+    border:solid;
+    border-width: 10px;
+}
+.juegos a:link{
+color:rgb(234, 236, 109);
+
+}
+.juegos a:visited{
+    color:rgb(233, 155, 81);
+   
+}
+.nombre{
+    color:rgb(235, 13, 179);
+
+}
+.intro{
+    text-align: center;
+    color: rgb(78, 1, 97);
+    
+}
